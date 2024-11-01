@@ -1,0 +1,8 @@
+Title,Description,Start Date,End Date,All Day,Repeat,End Repeat,Location,Image,Calendar
+Test Monthly meetup event,Lorem Ipsum,21-03-2020 10:00,21-03-2020 12:00,0,Monthly,,"WisdmLabs,Wagale Estate",,Meetup
+Test daily scrum event,Team scrum,2020-03-23,2020-03-23,,daily,,"WisdmLabs,Wagale Estate",,Scrum
+Test Annual Event,Foundation Day,01/02/20 11:00,01/02/20 17:00,1,Yearly,,"WisdmLabs,Wagale Estate",,
+Test Project review Event,This is weekly project status review meeting.,18-03-2020 15:30,18-03-2020 17:00,,weekly,18-03-2022,,,Scrum
+Sugar Calendar workshop Event,This event is conducted to show usability of Sugar calendar plugin in real life scenario. This will allow the team to use the plugin in more effective way and introduce to world of WordPress.,30-03-2020 14:00,30-03-2020 17:00,0,0,,,,
+Sample Event,This event is not going to import due to incorrect data in date.,abcd,,,,,,,
+Sample Event 2,This event is not going to import due to End date less than start date.,2020-03-10,2020-03-07,,,,,,
